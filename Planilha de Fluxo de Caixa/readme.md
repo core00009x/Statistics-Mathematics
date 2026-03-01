@@ -19,7 +19,7 @@ O projeto inclui um manual explicativo, contendo:
 
 - Descrição de cada aba da planilha
 - Orientações de preenchimento
-- - Explicação dos cálculos e indicadores utilizados
+- Explicação dos cálculos e indicadores utilizados
 - Boas práticas para uso e adaptação do modelo
 
 🛠️ Tecnologias e conceitos aplicados
