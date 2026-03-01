@@ -7,10 +7,10 @@ The projects included here are designed to support data analysis, quantitative r
 🔍 Scope and Purpose
 
 The objective of this repository is to consolidate studies and practical exercises in statistics and mathematics, emphasizing:
--Quantitative analysis and mathematical modeling
--Statistical methods for data interpretation
--Applied problem-solving using structured logic
--Clear documentation to ensure reproducibility and usability
+- Quantitative analysis and mathematical modeling
+- Statistical methods for data interpretation
+- Applied problem-solving using structured logic
+- Clear documentation to ensure reproducibility and usability
 
 Each project is documented to facilitate understanding of both the methodology and the underlying mathematical principles.
 
