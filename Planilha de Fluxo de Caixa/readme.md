@@ -6,12 +6,12 @@ A planilha foi pensada para uso prático e conta com manual de uso integrado, fa
 
 🔹 Funcionalidades
 
--Registro estruturado de entradas e saídas
--Comparativo orçado x realizado
--Análise de variações financeiras
--Identificação de outliers com apoio estatístico
--Indicadores para acompanhamento e tomada de decisão
--Organização clara das abas e dos dados
+- Registro estruturado de entradas e saídas
+- Comparativo orçado x realizado
+- Análise de variações financeiras
+- Identificação de outliers com apoio estatístico
+- Indicadores para acompanhamento e tomada de decisão
+- Organização clara das abas e dos dados
 
 📘 Manual de uso
 
